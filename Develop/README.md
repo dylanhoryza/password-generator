@@ -9,10 +9,10 @@
 To install this project, click on this link to open the applicaton in the browser.
 ## Usage
 - To use this application, click on the generate password button. Follow the prompts to generate your password. The following screenshots show how it works.
-   ![screenshot-1](assets/images/screenshot-1.png)
-   ![screenshot-2](assets/images/screenshot-2.png)
-   ![screenshot-3](assets/images/screenshot-3.png)
-   ![screenshot-4](assets/images/screenshot-4.png)
+   ![screenshot-1](develop/assets/images/screenshot-1.png)
+   ![screenshot-2](develop/assets/images/screenshot-2.png)
+   ![screenshot-3](develop/assets/images/screenshot-3.png)
+   ![screenshot-4](develop/assets/images/screenshot-4.png)
 ## Credits
 N/A
 ## License
