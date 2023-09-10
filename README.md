@@ -7,12 +7,13 @@
   and defining all variables to fit what the application needs.
 ## Installation
 To install this project, click on this link to open the applicaton in the browser.
+https://dylanhoryza.github.io/password-generator/
 ## Usage
 - To use this application, click on the generate password button. Follow the prompts to generate your password. The following screenshots show how it works.
-   ![screenshot-1](develop/assets/images/screenshot-1.png)
-   ![screenshot-2](develop/assets/images/screenshot-2.png)
-   ![screenshot-3](develop/assets/images/screenshot-3.png)
-   ![screenshot-4](develop/assets/images/screenshot-4.png)
+   ![screenshot-1](Assets/images/screenshot-1.png)
+   ![screenshot-2](Assets/images/screenshot-2.png)
+   ![screenshot-3](Assets/images/screenshot-3.png)
+   ![screenshot-4](Assets/images/screenshot-4.png)
 ## Credits
 N/A
 ## License
